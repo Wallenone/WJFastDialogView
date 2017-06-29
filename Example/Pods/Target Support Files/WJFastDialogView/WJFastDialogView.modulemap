@@ -1,0 +1,6 @@
+framework module WJFastDialogView {
+  umbrella header "WJFastDialogView-umbrella.h"
+
+  export *
+  module * { export * }
+}

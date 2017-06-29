@@ -1,0 +1,22 @@
+{
+  "name": "WJFastDialogView",
+  "version": "0.1.0",
+  "summary": "A short description of WJFastDialogView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanjiehuizhaofang/WJFastDialogView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanjiehuizhaofang": "wanjie@huizhaofang.com"
+  },
+  "source": {
+    "git": "https://github.com/wanjiehuizhaofang/WJFastDialogView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WJFastDialogView/Classes/**/*"
+}
