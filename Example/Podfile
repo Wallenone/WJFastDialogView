@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'WJFastDialogView_Example' do
+  pod 'WJFastDialogView', :path => '../'
+
+  target 'WJFastDialogView_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end
