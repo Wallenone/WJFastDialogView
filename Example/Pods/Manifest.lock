@@ -1,5 +1,5 @@
 PODS:
-  - Expecta (1.0.5)
+  - Expecta (1.0.6)
   - Expecta+Snapshots (3.1.1):
     - Expecta (~> 1.0)
     - FBSnapshotTestCase/Core (~> 2.0)
@@ -24,11 +24,11 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Expecta+Snapshots: dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
-  WJFastDialogView: 35b5568beca0e3eedfb0521d01d257038a458c3e
+  WJFastDialogView: f376833e8c248066ec04626421e4539e9c1233d5
 
 PODFILE CHECKSUM: 3ae1300fe2809bbf1500609f357a6fe27dd73134
 

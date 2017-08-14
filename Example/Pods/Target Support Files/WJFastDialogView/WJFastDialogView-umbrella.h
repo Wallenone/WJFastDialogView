@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "EZJFastDialogView.h"
 
 FOUNDATION_EXPORT double WJFastDialogViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char WJFastDialogViewVersionString[];
